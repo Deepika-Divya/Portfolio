@@ -1,0 +1,270 @@
+body{
+    background-color: antiquewhite;
+}
+.side-image{
+    position: relative;
+
+}
+.side-image img{
+    width: 350px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.side-Text{
+    font-size: 26px;
+    position: absolute;
+    top: 35%;
+    margin-left: 55%;
+}
+.text{
+    margin-left: 35%;
+}
+
+.s_image{
+    position: relative;
+    
+}
+.s_image img{
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    margin-top: 0%;
+    margin-left: 750px;
+}
+.s_text h2{
+    position: absolute;
+    font-size: 35px;
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.s_text p{
+    position: absolute;
+    font-size: 25px;
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 25%;
+
+}
+
+.ex_image{
+    position: relative;
+    margin-top: 45%;
+}
+.ex_image img{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    margin-top: 0%;
+    margin-left: 10%;
+}
+.ex_head h2{
+    position:absolute;
+    font-size: 35px;
+    margin-top: 5%;
+    margin-left: 60%;
+}
+.ex_head p{
+    position:absolute;
+    font-size: 25px;
+    margin-top: 10%;
+    margin-left: 52%;
+}
+.ex_head ul{
+    position: absolute;
+    font-size: 23px;
+    margin-top: 16%;
+    margin-left: 45%;
+}
+.education{
+    position: relative;
+    margin-top: 80%;
+}
+.education img{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.education h2{
+    position: absolute;
+    margin-top: 5%;
+    margin-left:15%;
+    font-size: 40px; 
+}
+.education p{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 50%;
+    font-size: 25px;
+}
+.year p{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.year ul{
+    position: absolute;
+    margin-top: 8%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+.inter {
+    position: relative;
+    margin-top: 13%;
+}
+.inter p{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 50%;
+    font-size: 25px;
+}
+.inter_year p{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.inter_year ul{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+.ssc {
+    position: relative;
+    margin-top: 8%;
+}
+.ssc p{
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 50%;
+    font-size: 25px;
+}
+.ssc_year p{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.ssc_year ul{
+    position: absolute;
+    margin-top: 3%;
+    margin-left: 50%;
+    font-size: 20px;
+}
+.skills{
+    position: relative;
+    margin-top: 0%;
+}
+.skills h2{
+    position: absolute;
+    margin-top: 10%;
+    margin-left:15%;
+    font-size: 40px;
+}
+.skills img{
+    position: absolute;
+    margin-top: 17%;
+    margin-left:10% ;
+    width: 350px;
+    height: auto;
+}
+.skills_1 ul{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 43%;
+    font-size: 22px;
+}
+
+.project{
+    position: relative;
+    margin-top: 45%;
+}
+.project img{
+    position: absolute;
+    width: 350px;
+    height: auto;
+    opacity: 0.8;
+    margin-top: 7%;
+    margin-left: 10%;
+}
+.project h2{
+    position: absolute;
+    margin-top: 5%;
+    margin-left:15%;
+    font-size: 40px;
+}
+.project p{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 44%;
+    font-size: 21px;   
+}
+.project_1 p{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 44%;
+    font-size: 20px; 
+}
+.project_1 ul{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 44%;
+    font-size: 20px;
+}
+
+.project_2{
+    position: relative;
+    margin-top: 10%;
+}
+.project_2 p{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 44%;
+    font-size: 21px;
+}
+.project_2_1 p{
+    position: absolute;
+    margin-top: 7%;
+    margin-left: 44%;
+    font-size: 20px; 
+}
+
+.project_2_1 ul{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 44%;
+    font-size: 20px;
+}
+
+.final{
+    position: relative;
+    margin-top: 25%;
+}
+.final img{
+    position: absolute;
+    width: 400px;
+    height: auto;
+    margin-left: 60%;
+}
+.final h2{
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: 30px;
+}
+.final ul{
+    position: absolute;
+    margin-top: 11%;
+    margin-left:12%;
+    font-size: 20px;
+    list-style-type: none;
+}
